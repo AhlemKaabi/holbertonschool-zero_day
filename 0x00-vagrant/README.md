@@ -1,3 +1,3 @@
 # Vagrant
 
-This is a learning project for [holberton school](https://www.holbertonschool.com/tn/en/).
+[Project-based learning](https://en.wikipedia.org/wiki/Project-based_learning) for [holberton school](https://www.holbertonschool.com/tn/en/).
