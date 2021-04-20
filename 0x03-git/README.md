@@ -1,3 +1,5 @@
-test this is the 0.03-git directory
-this is an up date for the README  file!!
-and this is the only time
+# Git
+
+[Project-based learning](https://en.wikipedia.org/wiki/Project-based_learning), to learn how to use git and github.
+
+Project for [holberton school](https://www.holbertonschool.com/tn/en/).
